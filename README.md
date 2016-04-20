@@ -1,2 +1,5 @@
 # hello-world
-My first repository
+
+Siemano,
+
+jestem Adam i lubię placki.
